@@ -1,17 +1,17 @@
+
 body {
     background-color: lightseagreen;
 }
 
 h2 {
     color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-family: 'Fredoka One', cursive;
     margin-left: 430px;
 }
 
 p {
     color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'; 
-    
+    font-family: 'Fredoka One', cursive; 
 }
 
 #soundbox {
