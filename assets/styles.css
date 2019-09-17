@@ -1,0 +1,81 @@
+body {
+    background-color: lightseagreen;
+}
+
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 430px;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#soundbox {
+    width: 200px;
+    height: 200px;   
+}
+
+.soundbox1 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+.soundbox2 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+.soundbox3 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+.soundbox4 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+.soundbox5 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+.soundbox6 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+.soundbox7 {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+
+
+
+
+
+#mainbox {
+    /* width: 700px; */
+    height: 530px;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
