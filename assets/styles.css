@@ -22,6 +22,7 @@ h1 {
     margin-left: 330px;
 }
 
+
 p {
     color: white;
     background-color: black;
@@ -59,7 +60,7 @@ p {
     cursor: pointer;
     position: relative;
     top: 60px;
-    left: 370px;
+    left: 367px;
     
 }
 
@@ -69,7 +70,7 @@ p {
     cursor: pointer;
     position: relative;
     top: 200px;
-    right: 284px;
+    right: 280px;
     
 }
 
